@@ -1,0 +1,12 @@
+/media/eltoney/0CC4F65CC4F6480A/data/prog/study/projects/csharp/book/primeFactors/primeClass/bin/Debug/net5.0/primeClass.deps.json
+/media/eltoney/0CC4F65CC4F6480A/data/prog/study/projects/csharp/book/primeFactors/primeClass/bin/Debug/net5.0/primeClass.dll
+/media/eltoney/0CC4F65CC4F6480A/data/prog/study/projects/csharp/book/primeFactors/primeClass/bin/Debug/net5.0/ref/primeClass.dll
+/media/eltoney/0CC4F65CC4F6480A/data/prog/study/projects/csharp/book/primeFactors/primeClass/bin/Debug/net5.0/primeClass.pdb
+/media/eltoney/0CC4F65CC4F6480A/data/prog/study/projects/csharp/book/primeFactors/primeClass/obj/Debug/net5.0/primeClass.csproj.AssemblyReference.cache
+/media/eltoney/0CC4F65CC4F6480A/data/prog/study/projects/csharp/book/primeFactors/primeClass/obj/Debug/net5.0/primeClass.GeneratedMSBuildEditorConfig.editorconfig
+/media/eltoney/0CC4F65CC4F6480A/data/prog/study/projects/csharp/book/primeFactors/primeClass/obj/Debug/net5.0/primeClass.AssemblyInfoInputs.cache
+/media/eltoney/0CC4F65CC4F6480A/data/prog/study/projects/csharp/book/primeFactors/primeClass/obj/Debug/net5.0/primeClass.AssemblyInfo.cs
+/media/eltoney/0CC4F65CC4F6480A/data/prog/study/projects/csharp/book/primeFactors/primeClass/obj/Debug/net5.0/primeClass.csproj.CoreCompileInputs.cache
+/media/eltoney/0CC4F65CC4F6480A/data/prog/study/projects/csharp/book/primeFactors/primeClass/obj/Debug/net5.0/primeClass.dll
+/media/eltoney/0CC4F65CC4F6480A/data/prog/study/projects/csharp/book/primeFactors/primeClass/obj/Debug/net5.0/ref/primeClass.dll
+/media/eltoney/0CC4F65CC4F6480A/data/prog/study/projects/csharp/book/primeFactors/primeClass/obj/Debug/net5.0/primeClass.pdb

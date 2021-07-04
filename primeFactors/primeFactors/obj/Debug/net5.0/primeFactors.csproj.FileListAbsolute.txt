@@ -1,0 +1,16 @@
+/media/eltoney/0CC4F65CC4F6480A/data/prog/study/projects/csharp/book/primeFactors/primeFactors/bin/Debug/net5.0/primeFactors
+/media/eltoney/0CC4F65CC4F6480A/data/prog/study/projects/csharp/book/primeFactors/primeFactors/bin/Debug/net5.0/primeFactors.deps.json
+/media/eltoney/0CC4F65CC4F6480A/data/prog/study/projects/csharp/book/primeFactors/primeFactors/bin/Debug/net5.0/primeFactors.runtimeconfig.json
+/media/eltoney/0CC4F65CC4F6480A/data/prog/study/projects/csharp/book/primeFactors/primeFactors/bin/Debug/net5.0/primeFactors.runtimeconfig.dev.json
+/media/eltoney/0CC4F65CC4F6480A/data/prog/study/projects/csharp/book/primeFactors/primeFactors/bin/Debug/net5.0/primeFactors.dll
+/media/eltoney/0CC4F65CC4F6480A/data/prog/study/projects/csharp/book/primeFactors/primeFactors/bin/Debug/net5.0/ref/primeFactors.dll
+/media/eltoney/0CC4F65CC4F6480A/data/prog/study/projects/csharp/book/primeFactors/primeFactors/bin/Debug/net5.0/primeFactors.pdb
+/media/eltoney/0CC4F65CC4F6480A/data/prog/study/projects/csharp/book/primeFactors/primeFactors/obj/Debug/net5.0/primeFactors.csproj.AssemblyReference.cache
+/media/eltoney/0CC4F65CC4F6480A/data/prog/study/projects/csharp/book/primeFactors/primeFactors/obj/Debug/net5.0/primeFactors.GeneratedMSBuildEditorConfig.editorconfig
+/media/eltoney/0CC4F65CC4F6480A/data/prog/study/projects/csharp/book/primeFactors/primeFactors/obj/Debug/net5.0/primeFactors.AssemblyInfoInputs.cache
+/media/eltoney/0CC4F65CC4F6480A/data/prog/study/projects/csharp/book/primeFactors/primeFactors/obj/Debug/net5.0/primeFactors.AssemblyInfo.cs
+/media/eltoney/0CC4F65CC4F6480A/data/prog/study/projects/csharp/book/primeFactors/primeFactors/obj/Debug/net5.0/primeFactors.csproj.CoreCompileInputs.cache
+/media/eltoney/0CC4F65CC4F6480A/data/prog/study/projects/csharp/book/primeFactors/primeFactors/obj/Debug/net5.0/primeFactors.dll
+/media/eltoney/0CC4F65CC4F6480A/data/prog/study/projects/csharp/book/primeFactors/primeFactors/obj/Debug/net5.0/ref/primeFactors.dll
+/media/eltoney/0CC4F65CC4F6480A/data/prog/study/projects/csharp/book/primeFactors/primeFactors/obj/Debug/net5.0/primeFactors.pdb
+/media/eltoney/0CC4F65CC4F6480A/data/prog/study/projects/csharp/book/primeFactors/primeFactors/obj/Debug/net5.0/primeFactors.genruntimeconfig.cache
