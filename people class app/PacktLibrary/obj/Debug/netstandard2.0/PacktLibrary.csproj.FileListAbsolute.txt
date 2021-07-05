@@ -1,0 +1,9 @@
+/media/eltoney/0CC4F65CC4F6480A/data/prog/study/projects/csharp/book/Chapter05/PacktLibrary/bin/Debug/netstandard2.0/PacktLibrary.deps.json
+/media/eltoney/0CC4F65CC4F6480A/data/prog/study/projects/csharp/book/Chapter05/PacktLibrary/bin/Debug/netstandard2.0/PacktLibrary.dll
+/media/eltoney/0CC4F65CC4F6480A/data/prog/study/projects/csharp/book/Chapter05/PacktLibrary/bin/Debug/netstandard2.0/PacktLibrary.pdb
+/media/eltoney/0CC4F65CC4F6480A/data/prog/study/projects/csharp/book/Chapter05/PacktLibrary/obj/Debug/netstandard2.0/PacktLibrary.csproj.AssemblyReference.cache
+/media/eltoney/0CC4F65CC4F6480A/data/prog/study/projects/csharp/book/Chapter05/PacktLibrary/obj/Debug/netstandard2.0/PacktLibrary.AssemblyInfoInputs.cache
+/media/eltoney/0CC4F65CC4F6480A/data/prog/study/projects/csharp/book/Chapter05/PacktLibrary/obj/Debug/netstandard2.0/PacktLibrary.AssemblyInfo.cs
+/media/eltoney/0CC4F65CC4F6480A/data/prog/study/projects/csharp/book/Chapter05/PacktLibrary/obj/Debug/netstandard2.0/PacktLibrary.csproj.CoreCompileInputs.cache
+/media/eltoney/0CC4F65CC4F6480A/data/prog/study/projects/csharp/book/Chapter05/PacktLibrary/obj/Debug/netstandard2.0/PacktLibrary.dll
+/media/eltoney/0CC4F65CC4F6480A/data/prog/study/projects/csharp/book/Chapter05/PacktLibrary/obj/Debug/netstandard2.0/PacktLibrary.pdb
